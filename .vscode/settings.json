@@ -1,0 +1,21 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "cSpell.ignoreWords": [
+        "Btns",
+        "DELTETE",
+        "Daum",
+        "Mypage",
+        "Orbitron",
+        "Roboto",
+        "Zoncode",
+        "antd",
+        "inicis",
+        "keystom",
+        "mypurchaselist",
+        "reviewimg",
+        "spacebar",
+        "uuidv",
+        "zipcode",
+        "zonecode"
+    ]
+}
