@@ -1,5 +1,5 @@
 import * as S from "./ProductDetail.styles";
-import ReviewDetail from "./reviewDetail/ReviewList.container";
+import ReviewDetail from "../../review/reviewList/ReviewList.container";
 
 import { Suspense, useRef, useState, useEffect } from "react";
 import { Canvas } from "@react-three/fiber";

@@ -1,4 +1,4 @@
-import UploadFilePage from "../../commons/uploadFile";
+import UploadFilePage from "../../../commons/uploadFile";
 import * as S from "./ReviewWrite.styles";
 import { IReviewWritePresenter } from "./ReviewWrite.types";
 

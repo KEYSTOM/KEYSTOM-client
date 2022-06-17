@@ -5,7 +5,7 @@ import { useState, ChangeEvent } from "react";
 import { Modal } from "antd";
 import { useRouter } from "next/router";
 import { useRecoilState } from "recoil";
-import { accessTokenState } from "../../commons/store/index";
+import { accessTokenState } from "../../../commons/store/index";
 
 const FETCH_ORDER = gql`
   query fetchOrder($orderId: String!) {
