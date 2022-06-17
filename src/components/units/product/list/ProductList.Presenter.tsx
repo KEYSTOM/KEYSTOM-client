@@ -3,7 +3,7 @@ import InfiniteScroll from "react-infinite-scroller";
 import _ from "lodash";
 import Typewriter from "typewriter-effect";
 import { IProductListPresenterProps } from "./ProductList.types";
-import ProductListPresenterItem from "./ProductList.presenterItem";
+import ProductListPresenterItem from "./ProductList.PresenterItem";
 
 export default function ProductListPresenter(
   props: IProductListPresenterProps
