@@ -1,7 +1,7 @@
 import { useQuery } from "@apollo/client";
 import { useRouter } from "next/router";
 import { MouseEvent, useState } from "react";
-import ProductListPresenter from "./ProductList.presenter";
+import ProductListPresenter from "./ProductList.Presenter";
 import { FETCH_PRODUCTS, FETCH_PRODUCT_ROW_COUNT } from "./ProductList.queries";
 
 export default function ProductListContainer() {
