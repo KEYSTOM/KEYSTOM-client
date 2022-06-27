@@ -85,6 +85,10 @@ export const Text3 = styled.div`
   margin-bottom: 29px;
 `;
 
+export const UnderlinedNum = styled.span`
+  text-decoration: underline;
+`;
+
 export const MoveButton = styled.button`
   width: 300px;
   height: 80px;
