@@ -1,15 +1,15 @@
 import styled from "@emotion/styled";
 
 export const Wrapper = styled.div`
-  width: 100%;
-  height: 100%;
+  width: 100rem;
+  height: 100rem;
   display: flex;
   flex-direction: column;
   align-items: center;
 `;
 
 export const MainWrapper = styled.div`
-  width: 1920px;
+  width: 100%;
   position: relative;
   top: -80px;
 `;
