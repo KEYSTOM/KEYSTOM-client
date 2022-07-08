@@ -5,7 +5,7 @@ import gsap from "gsap";
 import { v4 as uuidv4 } from "uuid";
 import ScrollAnimation from "react-animate-on-scroll";
 import "animate.css/animate.compat.css";
-import { useMediaQuery } from "react-responsive";
+// import { useMediaQuery } from "react-responsive";
 
 const ReviewArr = [
   {
@@ -116,3 +116,7 @@ export default function StorePresenter() {
     </S.Wrapper>
   );
 }
+
+/* @media (min-width: 768px) and (max-width: 991px) {
+    width: 100%;
+  } */
