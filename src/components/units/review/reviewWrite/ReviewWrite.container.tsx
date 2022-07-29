@@ -1,38 +1,15 @@
 import ReviewWritePresenter from "./ReviewWrite.presenter";
-import { useMutation, gql, useQuery, useApolloClient } from "@apollo/client";
-import { CREATE_REVIEW } from "./ReviewWrite.queries";
+import { useMutation, useQuery, useApolloClient } from "@apollo/client";
+import {
+  CREATE_REVIEW,
+  FETCH_CUSTOM,
+  FETCH_ORDER,
+} from "./ReviewWrite.queries";
 import { useState, ChangeEvent } from "react";
 import { Modal } from "antd";
 import { useRouter } from "next/router";
 import { useRecoilState } from "recoil";
 import { accessTokenState } from "../../../commons/store/index";
-
-const FETCH_ORDER = gql`
-  query fetchOrder($orderId: String!) {
-    fetchOrder(orderId: $orderId) {
-      id
-      price
-      product {
-        id
-        title
-        price
-        thumbnail
-      }
-    }
-  }
-`;
-
-const FETCH_CUSTOM = gql`
-  query fetchCustom($productId: String!) {
-    fetchCustom(productId: $productId) {
-      id
-      space
-      enter
-      esc
-      rest
-    }
-  }
-`;
 
 export default function ReviewWriteContainer() {
   const router = useRouter();

@@ -12,3 +12,30 @@ export const CREATE_REVIEW = gql`
     }
   }
 `;
+
+export const FETCH_ORDER = gql`
+  query fetchOrder($orderId: String!) {
+    fetchOrder(orderId: $orderId) {
+      id
+      price
+      product {
+        id
+        title
+        price
+        thumbnail
+      }
+    }
+  }
+`;
+
+export const FETCH_CUSTOM = gql`
+  query fetchCustom($productId: String!) {
+    fetchCustom(productId: $productId) {
+      id
+      space
+      enter
+      esc
+      rest
+    }
+  }
+`;
