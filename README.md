@@ -35,16 +35,16 @@
 ![title](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8894febd-94a0-4b6e-b188-a432f060296c%2F%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif?table=block&id=70b28db6-434c-4f1c-8465-c2fd8b14aef2&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)   
 
 
-### 로그인 페이지(소셜로그인)
-![title](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fffc65acc-c709-49ea-8a61-a4e79fd5ace5%2F%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif?table=block&id=0d7addf7-bef6-40ed-8d0f-8501d5cdcf97&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)   
- 
+### 로그인 페이지
+![login](https://user-images.githubusercontent.com/99471927/208581940-ff76413c-c8ef-4280-8b8c-7cb5284a8d2a.gif)
+
 
 ### 실시간 채팅
 ![title](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3fc456ae-a0a0-496b-89ca-c8fc6eaca4eb%2Fqna.gif?table=block&id=ff5a6546-615c-4481-82f4-6dcc7a77998e&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)    
 
 
 ### 리스트 & 디테일 페이지
-![title](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F94d1074b-906c-414d-bc9f-e9ad3619d237%2F%EB%94%94%ED%85%8C%EC%9D%BC%EB%A6%AC%EC%8A%A4%ED%8A%B8.gif?table=block&id=fe7523e2-0c6a-4fef-ac1b-1db16dc7ecad&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)   
+![title](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fffc65acc-c709-49ea-8a61-a4e79fd5ace5%2F%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif?table=block&id=0d7addf7-bef6-40ed-8d0f-8501d5cdcf97&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)  
 
 
 ### 결제하기
