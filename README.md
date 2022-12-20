@@ -32,11 +32,15 @@
 
 
 ### 회원가입 페이지
-![title](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8894febd-94a0-4b6e-b188-a432f060296c%2F%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif?table=block&id=70b28db6-434c-4f1c-8465-c2fd8b14aef2&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)   
+https://user-images.githubusercontent.com/99471927/208584820-55a9e7e4-2fc7-4fb3-a3cd-5bf75eac892d.mp4
 
 
-### 로그인 페이지
-![login](https://user-images.githubusercontent.com/99471927/208581940-ff76413c-c8ef-4280-8b8c-7cb5284a8d2a.gif)
+### 로그인
+![로그인2](https://user-images.githubusercontent.com/99471927/208583748-60e0922b-d54a-4b7a-b452-ab12a85bc1fb.gif)
+
+
+### 로그인(소셜로그인)
+![소셜로그인](https://user-images.githubusercontent.com/99471927/208583629-e4449284-e935-45e9-94ca-866034157031.gif)
 
 
 ### 실시간 채팅
