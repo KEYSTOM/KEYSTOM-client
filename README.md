@@ -27,8 +27,9 @@
 ![F12_ERD](https://user-images.githubusercontent.com/101323629/173024946-b9d8f7d7-7e57-483e-b0e7-73ba5a11be37.png)
 
 ## 4. 시연영상
-### 랜딩 페이지
-![title](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F46af5e10-cba5-473a-bd2d-b3696c23e28d%2F%EB%9E%9C%EB%94%A9.gif?table=block&id=6653e13a-2e42-493f-be57-92adf771db65&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)   
+### 랜딩 페이지 
+
+![랜딩2](https://user-images.githubusercontent.com/99471927/208586490-289655de-be99-4426-ac8f-52e0ae705e30.gif)
 
 
 ### 회원가입 페이지
