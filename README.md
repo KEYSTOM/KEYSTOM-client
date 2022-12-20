@@ -33,7 +33,7 @@
 
 
 ### 회원가입 페이지
-https://user-images.githubusercontent.com/99471927/208584820-55a9e7e4-2fc7-4fb3-a3cd-5bf75eac892d.mp4
+![회원가입3](https://user-images.githubusercontent.com/99471927/208587503-37ca1d46-417d-4495-8cc2-4c54843deb7a.gif)
 
 
 ### 로그인
