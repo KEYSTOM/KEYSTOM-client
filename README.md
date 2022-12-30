@@ -1,7 +1,9 @@
 # Keyboard + custom = KEYSTOM
  - 프로젝트의 이름은 KEYSTOM으로, KEYBOARD와 CUSTOM을 합친 단어입니다.
  - 팀명은 F12 입니다. 브라우저에서 개발자 도구를 열기 위해 F12키를 사용하게 되는데, 개발자인 우리와 딱 맞아 떨어진다고 생각하여 팀명으로 정하게 되었습니다.
- - 배포주소 : https://keystom.site
+ - 배포주소 : https://keystom.site (배포중단)
+
+<br/>
 
 ## 1. 기획 의도
 
@@ -11,12 +13,16 @@
 
 ‘데스크 셋업’의 주요 부품중 하나인 키보드의 수요가 증가할 것으로 예상이되는 가운데,  F12는 사용자가 원하는 디자인으로 커스텀 된 세상에서 하나뿐인 특별한 키보드를 제작하여 나만의 개성을 들어낼수 있는 서비스를 기획하였습니다.
 
+<br/>
+
 ## 2. 팀원소개
 ![F12_member](https://user-images.githubusercontent.com/101323629/173024842-b7717f87-0eee-45ea-96eb-fe4e24f5527f.png)
 
 ![F12_Front](https://user-images.githubusercontent.com/101323629/173024864-7aeaeb3e-13be-45fb-9f9a-7d64e62a04ee.png)
 
 ![F12_Back](https://user-images.githubusercontent.com/101323629/173024872-42efa8ed-ac77-4490-bc32-7441f6e12855.png)
+
+<br/>
 
 ## 3. 기술스택
 ![F12_Front_Stack](https://user-images.githubusercontent.com/101323629/173024907-7075d2c1-e73b-43cb-bee5-97f9e5e9b60b.png)
@@ -26,6 +32,8 @@
 ![F12_DataFlow](https://user-images.githubusercontent.com/101323629/173024936-72f3c76f-f4ae-4ab8-b2c5-8220a2f918e0.png)
 
 ![F12_ERD](https://user-images.githubusercontent.com/101323629/173024946-b9d8f7d7-7e57-483e-b0e7-73ba5a11be37.png)
+
+<br/>
 
 ## 4. 시연영상
 ### 랜딩 페이지 
