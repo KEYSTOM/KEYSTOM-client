@@ -51,18 +51,27 @@ yarn dev
 
 <br/>
 
-## 4. 시연영상
+## 배포주소
+
+> https://keystom.site
+<br/>
+GCP 무료 크레딧 고갈로 배포 중단
+
+<br/>
+<br/>
+
+## 시연영상
 ### 랜딩 페이지 
 
-![랜딩2](https://user-images.githubusercontent.com/99471927/208586490-289655de-be99-4426-ac8f-52e0ae705e30.gif)
+![랜딩](https://user-images.githubusercontent.com/99471927/208586490-289655de-be99-4426-ac8f-52e0ae705e30.gif)
 
 
 ### 회원가입 페이지
-![회원가입3](https://user-images.githubusercontent.com/99471927/208587503-37ca1d46-417d-4495-8cc2-4c54843deb7a.gif)
+![회원가입](https://user-images.githubusercontent.com/99471927/208587503-37ca1d46-417d-4495-8cc2-4c54843deb7a.gif)
 
 
 ### 로그인
-![로그인2](https://user-images.githubusercontent.com/99471927/208583748-60e0922b-d54a-4b7a-b452-ab12a85bc1fb.gif)
+![로그인](https://user-images.githubusercontent.com/99471927/208583748-60e0922b-d54a-4b7a-b452-ab12a85bc1fb.gif)
 
 
 ### 로그인(소셜로그인)
@@ -70,43 +79,57 @@ yarn dev
 
 
 ### 실시간 채팅
-![title](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3fc456ae-a0a0-496b-89ca-c8fc6eaca4eb%2Fqna.gif?table=block&id=ff5a6546-615c-4481-82f4-6dcc7a77998e&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)    
+![실시간 채팅](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3fc456ae-a0a0-496b-89ca-c8fc6eaca4eb%2Fqna.gif?table=block&id=ff5a6546-615c-4481-82f4-6dcc7a77998e&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)    
 
 
 ### 리스트 & 디테일 페이지
-![title](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fffc65acc-c709-49ea-8a61-a4e79fd5ace5%2F%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif?table=block&id=0d7addf7-bef6-40ed-8d0f-8501d5cdcf97&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)  
+![리스트, 디테일](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fffc65acc-c709-49ea-8a61-a4e79fd5ace5%2F%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif?table=block&id=0d7addf7-bef6-40ed-8d0f-8501d5cdcf97&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)  
 
 
 ### 결제하기
-![title](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7a5a44a4-6a8f-418b-adaf-7521fd44d654%2F%EA%B2%B0%EC%A0%9C.gif?table=block&id=22144c81-713a-44a6-8fe0-2395299e4a67&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)   
+![결제](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7a5a44a4-6a8f-418b-adaf-7521fd44d654%2F%EA%B2%B0%EC%A0%9C.gif?table=block&id=22144c81-713a-44a6-8fe0-2395299e4a67&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)   
  
 
 ### 배송조회
-![title](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F40e99c21-03a0-4317-ac61-39cc730eca5e%2F%EB%B0%B0%EC%86%A1%EC%A1%B0%ED%9A%8C.gif?table=block&id=b9035c9a-aa03-4de2-b052-df534f34a7fe&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)   
+![배송](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F40e99c21-03a0-4317-ac61-39cc730eca5e%2F%EB%B0%B0%EC%86%A1%EC%A1%B0%ED%9A%8C.gif?table=block&id=b9035c9a-aa03-4de2-b052-df534f34a7fe&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)   
 
 
 ### 리뷰
-![title](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7357dbd0-c762-48de-a891-8b12d0da78a8%2F%EB%A6%AC%EB%B7%B0.gif?table=block&id=feb59018-4a24-4374-a572-09ca573117bd&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)   
+![리뷰](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7357dbd0-c762-48de-a891-8b12d0da78a8%2F%EB%A6%AC%EB%B7%B0.gif?table=block&id=feb59018-4a24-4374-a572-09ca573117bd&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)   
 
 
 ### 리뷰 댓글
-![title](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F12d67a41-b0f0-4094-9cc1-4ea758c4c332%2F%EB%A6%AC%EB%B7%B0%EB%8C%93%EA%B8%80.gif?table=block&id=1f30cde2-81fb-47ed-aa98-66a9d637b32e&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)   
+![리뷰 댓글](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F12d67a41-b0f0-4094-9cc1-4ea758c4c332%2F%EB%A6%AC%EB%B7%B0%EB%8C%93%EA%B8%80.gif?table=block&id=1f30cde2-81fb-47ed-aa98-66a9d637b32e&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)   
 
 
 ### 장바구니
-![title](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4b0281c9-4696-4310-ae81-b77d86296a0d%2F%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.gif?table=block&id=5db09eb7-5132-4649-bed7-31eac777c70a&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)   
+![장바구니](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4b0281c9-4696-4310-ae81-b77d86296a0d%2F%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.gif?table=block&id=5db09eb7-5132-4649-bed7-31eac777c70a&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)   
 
 
 ### 관리자 페이지
 
 ![관리자페이지](https://github.com/woojung007/KEYSTOM_CLIENT/assets/99471927/fde4c023-e547-470f-aeb4-0c64014cfc9d)
 
-
-## 배포주소
-
-> https://keystom.site
 <br/>
-GCP 무료 크레딧 고갈로 배포 중단
+
+## 팀원 역할
+### 이우정
+> Email: eeeeve007@gmail.com
+> Github: https://github.com/woojung007
+
+- 관리자 페이지 구축
+   - 상품 CRUD
+   - 유저 목록 조회, 유저 삭제
+   - 상품 등록 시 Toast UI 에디터 연동
+- 웹 어플리케이션
+   - 리뷰 CRUD
+   - 상품 결제
+- 전체 UI/UX 및 기획
+- Frontend 어플리케이션 배포
+- 프로젝트 스케쥴링
+- 기타 공유 문서 작업
 
 
-
+### 임영훈
+> Email: eeeeve007@gmail.com
+> Github: https://github.com/woojung007
