@@ -68,5 +68,6 @@
 
 
 ### 관리자 페이지
-![title](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8f07995a-1e00-480e-9f08-8786b9aae628%2F%EA%B4%80%EB%A6%AC%EC%9E%90.gif?table=block&id=d3909166-03aa-4992-a1d0-b5b85254f52c&spaceId=9c9b02bc-6cb6-4924-bf38-dad25e0fe77b&userId=d64fefb1-9743-4587-b7df-62da0786997b&cache=v2)   
+![관리자페이지](https://github.com/KEYSTOM/KEYSTOM-client/assets/99471927/67e9d566-cabb-4281-82e5-749cc7f3f0dc)
+
 
