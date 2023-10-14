@@ -35,6 +35,22 @@
 
 <br/>
 
+## 실행 방법
+
+```
+git clone https://github.com/woojung007/KEYSTOM_CLIENT.git
+```
+
+```
+yarn install
+```
+
+```
+yarn dev
+```
+
+<br/>
+
 ## 4. 시연영상
 ### 랜딩 페이지 
 
