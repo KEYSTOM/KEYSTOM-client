@@ -113,35 +113,72 @@ GCP 무료 크레딧 고갈로 배포 중단
 <br/>
 
 # 팀원 역할
-## 프론트엔드
+## Frontend
 ### 이우정
 
 > Email: eeeeve007@gmail.com <br/>
 > Github: [https://github.com/woojung007](https://github.com/woojung007)
 
 - 백오피스 구축
-   - 상품 CRUD
-   - 유저 목록 조회, 유저 삭제
-   - 상품 등록 시 Toast UI 에디터 연동
-- 클라이언트 어플리케이션
+   - 상품 관리 CRUD
+      - 상품 등록 Toast UI 에디터 연동
+   - 유저 목록 조회 및 유저 삭제
+- 클라이언트 웹페이지
    - 리뷰 CRUD
 - 전체 UI/UX 및 기획
 - Frontend 어플리케이션 배포
 - 프로젝트 스케쥴링
 - 기타 공유 문서 작업
 
+<br/>
 
 ### 임영훈
 > Email: yhoon3002@gmail.com <br/>
 > Github: [https://github.com/yhoon3002](https://github.com/yhoon3002)
 
-- 클라이언트 어플리케이션
+- 클라이언트 웹페이지
    - 상품 상세 페이지
    - 마이페이지
    - 상품 결제
    - 쿠폰 적용 CRUD
    - css animation
 - 기타 공유 문서 작업
+
+<br/>
  
 ### 천두인
+> Email: chun.doo.in@gmail.com <br/>
+> Github: [https://github.com/CHUNDOOIN](https://github.com/CHUNDOOIN)
 
+- 클라이언트 웹페이지 
+   - 로그인
+   - 회원가입
+   - 상품 리스트
+   - 장바구니
+   - 실시간 채팅
+   - 배송 조회
+- Git 관리
+- 기타 공유 문서 작업
+
+<br/>
+
+## Backend
+### 문성민
+> Email: antipiebse@gmail.com <br/>
+> Github: [https://github.com/antipiebse](https://github.com/antipiebse)
+
+- Order API, Payment API, FileUpload API, Logout API, Coupon API 생성 및 유지 보수
+- ERD 설계
+- Backend 배포
+- Git 관리
+- 기타 공유 문서 작업
+
+  <br/>
+
+### 선종현
+> Email: jjong981028@gmail.com <br/>
+> Github: [https://github.com/jonghyun-sun](https://github.com/jonghyun-sun)
+
+- Login API, Signin API, Review API,기본CRUD API 생성 및 유지 보수
+- 발표
+- 기타 공유 문서 작업
