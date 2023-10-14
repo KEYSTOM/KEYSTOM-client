@@ -112,18 +112,19 @@ GCP 무료 크레딧 고갈로 배포 중단
 
 <br/>
 
-## 팀원 역할
+# 팀원 역할
+## 프론트엔드
 ### 이우정
-> Email: eeeeve007@gmail.com
-> Github: https://github.com/woojung007
 
-- 관리자 페이지 구축
+> Email: eeeeve007@gmail.com <br/>
+> Github: [https://github.com/woojung007](https://github.com/woojung007)
+
+- 백오피스 구축
    - 상품 CRUD
    - 유저 목록 조회, 유저 삭제
    - 상품 등록 시 Toast UI 에디터 연동
-- 웹 어플리케이션
+- 클라이언트 어플리케이션
    - 리뷰 CRUD
-   - 상품 결제
 - 전체 UI/UX 및 기획
 - Frontend 어플리케이션 배포
 - 프로젝트 스케쥴링
@@ -131,5 +132,16 @@ GCP 무료 크레딧 고갈로 배포 중단
 
 
 ### 임영훈
-> Email: eeeeve007@gmail.com
-> Github: https://github.com/woojung007
+> Email: yhoon3002@gmail.com <br/>
+> Github: [https://github.com/yhoon3002](https://github.com/yhoon3002)
+
+- 클라이언트 어플리케이션
+   - 상품 상세 페이지
+   - 마이페이지
+   - 상품 결제
+   - 쿠폰 적용 CRUD
+   - css animation
+- 기타 공유 문서 작업
+ 
+### 천두인
+
