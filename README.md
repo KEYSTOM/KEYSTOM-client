@@ -1,16 +1,8 @@
 # ⌨️ Keystom
 
-> 키보드 커스텀 서비스
-
-<img width="1000" alt="메인페이지" src="https://github.com/woojung007/KEYSTOM_CLIENT/assets/99471927/fe0eb200-f35c-4504-8b94-445ab2a3f511">
-
-
-## Keyboard + custom
-
-<img width="1880" alt="how_to_customize" src="https://github.com/woojung007/KEYSTOM_CLIENT/assets/99471927/af262d9c-bc04-4be7-a5e7-ff8f6818eba6">
-
-<br/>
-
+> ## Keyboard + custom
+> 키보드 커스텀 서비스, Keystom
+> 
 > 코로나 19로 인해 사람들이 집에 머무는 시간이 증가하면서 집 안을 꾸며 인스타그램이나 페이스북에 공유하고 자랑하는 일들이 많아졌습니다.  
 >
 > 누군가는 집에 꽃을 들여놓고, 또 누군가는 침대를 바꾸는 등 인테리어에 대한 관심과 수요가 증가하게 되었고,
@@ -22,15 +14,24 @@
 
 <br/>
 
+<img width="1000" alt="메인페이지" src="https://github.com/woojung007/KEYSTOM_CLIENT/assets/99471927/fe0eb200-f35c-4504-8b94-445ab2a3f511">
 
-## 3. 기술스택
-![F12_Front_Stack](https://user-images.githubusercontent.com/101323629/173024907-7075d2c1-e73b-43cb-bee5-97f9e5e9b60b.png)
+<img width="1880" alt="how_to_customize" src="https://github.com/woojung007/KEYSTOM_CLIENT/assets/99471927/af262d9c-bc04-4be7-a5e7-ff8f6818eba6">
 
-![F12_Back_Stack](https://user-images.githubusercontent.com/101323629/173024928-cb44be68-738f-431c-87a8-37054064955d.png)
+<br/>
 
-![F12_DataFlow](https://user-images.githubusercontent.com/101323629/173024936-72f3c76f-f4ae-4ab8-b2c5-8220a2f918e0.png)
 
-![F12_ERD](https://user-images.githubusercontent.com/101323629/173024946-b9d8f7d7-7e57-483e-b0e7-73ba5a11be37.png)
+## 기술스택
+
+- `Typescript`
+- `React`
+- `Next.js`
+- `Recoil`
+- `Emotion`
+- `GraphQL`, `Apollo-client`
+- `Git`, `Github`
+- `Docker`, `GCP`
+
 
 <br/>
 
@@ -83,5 +84,13 @@
 ### 관리자 페이지
 
 ![관리자페이지](https://github.com/woojung007/KEYSTOM_CLIENT/assets/99471927/fde4c023-e547-470f-aeb4-0c64014cfc9d)
+
+
+## 배포주소
+
+> https://keystom.site
+<br/>
+GCP 무료 크레딧 고갈로 배포 중단
+
 
 
